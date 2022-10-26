@@ -1,0 +1,35 @@
+Rdp = {
+    {nordp = 1, botname = "bot", Status = "Nonaktif"},
+    {nordp = 1, botname = "bot", Status = "Nonaktif"},
+    {nordp = 2, botname = "bot", Status = "Nonaktif"},
+    {nordp = 2, botname = "bot", Status = "Nonaktif"},
+    {nordp = 3, botname = "bot", Status = "Nonaktif"},
+    {nordp = 3, botname = "bot", Status = "Nonaktif"},
+    {nordp = 4, botname = "bot", Status = "Nonaktif"},
+    {nordp = 4, botname = "bot", Status = "Nonaktif"},
+    {nordp = 5, botname = "bot", Status = "Nonaktif"},
+    {nordp = 5, botname = "bot", Status = "Nonaktif"},
+    {nordp = 6, botname = "bot", Status = "Nonaktif"},
+    {nordp = 6, botname = "Tbot", Status = "Nonaktif"}
+}
+
+ip_add = {
+    "192.168.0.1",
+    "192.168.0.2",
+    "192.168.0.3",
+    "192.168.0.4",
+    "192.168.0.5",
+    "192.168.0.6",
+    "192.168.0.7"
+}
+
+hookURL = "https://discordapp.com/api/webhooks/1034680196827189370/czzvKdx-9ujZ0Ph0xroYA6q6IeYHNqPB_PKScmdJppQ9KrCyekXOsxQavY7xMwvBbqTm"
+
+Teks_Deskripsi = "List Nick Para Babu"
+Teks_Footer = "Golek Duit Kanggo Masa Depan"
+
+Emote_Offline = "<:offline:982957367392088124>"
+Emote_Online = "<:online:982957403756716052>"
+
+menit = 10
+ShowIP = false
