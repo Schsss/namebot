@@ -5,40 +5,6 @@ Rdp = {
     {nordp = 2, botname = "GOODBANANA80273", Status = "Nonaktif"},
     {nordp = 3, botname = "EinstBill38465", Status = "Nonaktif"},
     {nordp = 3, botname = "TorFairy5534", Status = "Nonaktif"},
-    {nordp = 4, botname = "bot", Status = "Nonaktif"},
-    {nordp = 4, botname = "bot", Status = "Nonaktif"},
-    {nordp = 5, botname = "bot", Status = "Nonaktif"},
-    {nordp = 5, botname = "bot", Status = "Nonaktif"},
-    {nordp = 6, botname = "bot", Status = "Nonaktif"},
-    {nordp = 6, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 7, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 7, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 8, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 8, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 9, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 9, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 10, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 10, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 11, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 11, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 12, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 12, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 13, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 13, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 14, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 15, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 15, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 16, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 16, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 17, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 17, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 18, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 18, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 19, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 19, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 20, botname = "Tbot", Status = "Nonaktif"}
-    {nordp = 20, botname = "Tbot", Status = "Nonaktif"}
-
 }
 
 ip_add = {
