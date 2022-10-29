@@ -49,16 +49,6 @@ Rdp = {
     {nordp = 25, botname = "KSHWUBWIA", Status = "Nonaktif"},
     {nordp = 25, botname = "BraveLite58820", Status = "Nonaktif"},
     {nordp = 26, botname = "ZQUISILLG", Status = "Nonaktif"},
-    {nordp = 26, botname = "bot", Status = "Nonaktif"},
-    {nordp = 27, botname = "bot", Status = "Nonaktif"},
-    {nordp = 27, botname = "bot", Status = "Nonaktif"},
-    {nordp = 28, botname = "bot", Status = "Nonaktif"},
-    {nordp = 28, botname = "bot", Status = "Nonaktif"},
-    {nordp = 29, botname = "bot", Status = "Nonaktif"},
-    {nordp = 29, botname = "bot", Status = "Nonaktif"},
-    {nordp = 30, botname = "bot", Status = "Nonaktif"},
-    {nordp = 30, botname = "bot", Status = "Nonaktif"},
-    {nordp = 31, botname = "bot", Status = "Nonaktif"},
 }
 
 ip_add = {
@@ -79,5 +69,5 @@ Teks_Footer = "GAS"
 Emote_Offline = "<:offline:982957367392088124>"
 Emote_Online = "<:online:982957403756716052>"
 
-menit = 10
+menit = 5
 ShowIP = false
